@@ -122,7 +122,7 @@ public class Flames
 	int temp = flen;
 	if (flen <= 0)
 	  {
-	    System.out.println ("Vaipilla Raja");
+	    System.out.println ("No Mathces");
 	  }
 	else
 	  {
